@@ -1,4 +1,4 @@
-##Beer Recommendation Engine: Do I have a beer for you.
+## Beer Recommendation Engine: Do I have a beer for you.
 
 This project folder will include:
 * A section for cleaning and visualization of data.
