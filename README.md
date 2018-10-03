@@ -2,7 +2,7 @@
 
 This project folder will include:
 * A section for cleaning and visualization of data.
-* A recommendation engine that suggests beer styles or individual beers to users/consumers based on their tastes.
+* A recommendation models that suggests beer styles or individual beers to users/consumers based on their tastes.
 * Project wrap up, which may include pdfs or slidedecks to present findings.
 
 A unique use case is for clients similar to https://www.firstdraftmn.com/ or https://www.tapsocietymn.com/. This bar allows customers choose from a variety of taps that they pour themselves. A recommendation engine behind the concept could cater to novice drinkers in helping to narrow the selection down. Additional benefits may include reducing waste of beer, and reducing beer decision time. Customers may have a better idea of beer they may like, and instead of trying a large number of beers before choosing, they may only try a few. Possible additional benefits may come from larger pours of beers, increase profits.
