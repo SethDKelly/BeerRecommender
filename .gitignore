@@ -1,0 +1,5 @@
+Ignore .csv files
+*.csv
+
+Ignore jupyter checkpoint files
+.ipynb_checkpoints/*
