@@ -3,3 +3,6 @@ Ignore .csv files
 
 Ignore jupyter checkpoint files
 .ipynb_checkpoints/*
+
+Ignore all python cache files
+__pycache__/*
