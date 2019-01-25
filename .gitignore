@@ -6,3 +6,6 @@ Ignore jupyter checkpoint files
 
 Ignore all python cache files
 __pycache__/*
+
+Ignore main data zip file
+socialmediadata-beeradvocate.zip
